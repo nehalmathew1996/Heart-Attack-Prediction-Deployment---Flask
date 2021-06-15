@@ -1,4 +1,4 @@
-# Heart-Attack-Prediction-Deployment---Flask
+# Heart-Attack-Prediction-Deployment-->Flask
 
 ## ML-Model-Flask-Deployment
 This is a demo project that showcases how a Machine Learn Model is deployed on production environment using Flask API
